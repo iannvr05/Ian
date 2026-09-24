@@ -9,4 +9,4 @@
 | 5 | `animaciones/anim5.mp4` | En 1260, los mongoles parecían imparables. Ya habían destruido Bagdad. Y él estaba en primera línea. |
 | 6 | `animaciones/anim6.mp4` | En la batalla de Ain Jalut, la élite del emperador los aplastó. Fue la primera vez que los mongoles sufrían la derrota. |
 | 7 | `animaciones/anim7.mp4` | Pero él quería más, y se encargó de que, en mitad de la noche, el líder mongol fuese asesinado. |
-| 8 · Cierre | `animaciones/anim8.mp4` | El niño que nadie quiso comprar acabó convirtiéndose en emperador. Y gobernó Egipto y Siria diecisiete años. |
+| 8 · Cierre | `animaciones/anim8.mp4` | El niño que nadie quiso comprar acabó convirtiéndose en emperador, gobernando Egipto hasta su muerte. |
