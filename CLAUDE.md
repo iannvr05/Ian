@@ -54,7 +54,14 @@ Primer proyecto de referencia: `baibars/` (Baibars, el esclavo que frenó a los 
   Entrega 720×1280 a 24 fps aunque se pida 1080p.
 - **`mode_image=frame` es OBLIGATORIO para animar una imagen**: la usa como primer fotograma exacto.
   Sin él (o con `ingredient`) Veo solo se "inspira" y se inventa otro plano con otro personaje.
-- Grok vídeo también existe (`/video-gen/grok`, modelos `grok-video`/`grok-3`), 8 créditos; no lo usamos.
+- Grok vídeo (`/video-gen/grok`, `model=grok-video`, `mode=normal`, `aspect_ratio=portrait`): en vertical solo tiene
+  precio a **10 s / 720p = 45 créditos** (las otras combinaciones dan `SERVICE_PRICE_NOT_FOUND`). **No usarlo sin
+  que Ian apruebe ese precio.** Mantiene muy bien la imagen de partida y termina en ~2 min.
+- `veo-3.1-lite` con `mode_image=frame` dio `SYSTEM_ERROR` (no cobrado).
+- **Antes de lanzar un modelo nuevo, averigua el precio**: `estimated_credit` solo aparece al enviarlo y el trabajo
+  puede terminar antes de los 3 min que hacen falta para cancelarlo.
+- Veo caducó una y otra vez en las escenas con **cadenas/mercado de esclavos/niño** (1, 3, 8), incluso quitando las
+  cadenas del prompt: probablemente lo atasca la propia imagen. Para esas, usar los clips de solo cámara.
 - Para descubrir parámetros sin gastar: manda el POST con `prompt` vacío o un valor inválido; el error dice los
   valores permitidos y no se genera nada.
 - **Saturación**: son frecuentes `GEMINI_RATE_LIMIT` (imágenes) y `TIMEOUT` a los ~21 min en cola (Veo). No se
