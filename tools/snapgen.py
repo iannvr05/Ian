@@ -40,7 +40,7 @@ def wait(uuid, every=10):
 def submit(endpoint, fields, files):
     args = ["-X", "POST"]
     for k, v in fields.items():
-        args += ["-F", f"{k}={v}"]
+        args += ["--form-string", f"{k}={v}"]  # -F corta el texto en ";"
     for f in files:
         args += ["-F", f"files=@{f}"]
     r = curl(*args, f"{API}/{endpoint}")

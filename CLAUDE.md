@@ -68,6 +68,9 @@ Primer proyecto de referencia: `baibars/` (Baibars, el esclavo que frenó a los 
   cobran. Envía **de una en una** (lanzar varias a la vez empeora los rechazos) y reintenta. Suele ir mejor por la
   mañana en España.
 
+- **Envía el prompt con `curl --form-string`, nunca con `-F`**: `-F` corta el texto en el primer `;` y a SnapGen solo
+  le llega la primera frase (sale una imagen que ignora la acción y el estilo).
+
 Script: `tools/snapgen.py` (`credits`, `image`, `video`); envía un trabajo, espera, descarga e imprime el coste.
 
 ## 4. Estilo visual y personaje

@@ -2,7 +2,7 @@
 import os
 PRE = ("IMPORTANT: Do not copy ANY element or character from the reference image. Use the uploaded image ONLY as an "
        "art style reference (round white cartoon faces with simple expressive eyes, thick black outlines, flat colors). ")
-POST = (" Setting: Medellin, Colombia, 1980s. Style: 2D cartoon like a history explainer animation, thick black outlines, "
+POST = (" Setting: Medellin, Colombia, in the 1980s (modern era): people wear modern clothes like t-shirts, jeans, polo shirts and sneakers; modern cars, motorcycles, power lines. Nothing medieval or colonial, no donkeys, no old-fashioned costumes, no aprons or headscarves. Style: 2D cartoon like a history explainer animation, thick black outlines, "
         "flat colors with soft shading, highly detailed painted background with rich atmospheric lighting. All people have "
         "round white cartoon faces with simple eyes. No glow outline. ABSOLUTELY NO TEXT anywhere: no words, no letters, "
         "no numbers, no logos, no brand names, all signs, posters, magazines, maps and screens blank. No blood, no gore, "
@@ -71,5 +71,5 @@ S = {
 }
 d = os.path.dirname(os.path.abspath(__file__))
 for n, s in S.items():
-    open(f"{d}/img{n}.txt", "w").write(PRE + s + POST)
+    open(f"{d}/img{n}.txt", "w").write("MAIN SUBJECT, must be clearly visible, large and in the foreground, this is the most important part of the image: " + s.replace("Scene: ", "") + " " + PRE + POST)
 print(len(S), "prompts")
