@@ -2,10 +2,10 @@
 import os
 PRE = ("IMPORTANT: Do not copy ANY element or character from the reference image. Use the uploaded image ONLY as an "
        "art style reference (round white cartoon faces with simple expressive eyes, thick black outlines, flat colors). ")
-POST = (" Setting: Medellin, Colombia, in the 1980s (modern era): people wear modern clothes like t-shirts, jeans, polo shirts and sneakers; modern cars, motorcycles, power lines. Nothing medieval or colonial, no donkeys, no old-fashioned costumes, no aprons or headscarves. Style: 2D cartoon like a history explainer animation, thick black outlines, "
+POST = (" Setting: Medellin, Colombia, in the 1980s (modern era): people wear modern clothes like t-shirts, jeans, polo shirts and sneakers. Only include cars or city elements if the scene is in the city. Nothing medieval or colonial, no donkeys, no old-fashioned costumes, no aprons or headscarves. Style: 2D cartoon like a history explainer animation, thick black outlines, "
         "flat colors with soft shading, highly detailed painted background with rich atmospheric lighting. All people have "
         "round white cartoon faces with simple eyes. No glow outline. ABSOLUTELY NO TEXT anywhere: no words, no letters, "
-        "no numbers, no logos, no brand names, all signs, posters, magazines, maps and screens blank. No blood, no gore, "
+        "no numbers, no logos, no brand names on vehicles or products, no labels on packages, all signs, posters, magazines, maps and screens blank. No blood, no gore, "
         "no guns pointed at anyone, no drugs or powder visible. No watermark. Horizontal 16:9 widescreen.")
 BOY = "a skinny 12-year-old boy with short black hair, round white cartoon face, faded yellow t-shirt and blue shorts"
 TEEN = "the same young man now 16, taller and thin, short black hair, round white cartoon face, yellow t-shirt and jeans"
@@ -22,7 +22,7 @@ S = {
 9: "Scene: a narrow hillside street; neighbors peek silently from windows and half-open doors, some looking away, an old woman closing her shutters, a mysterious motorcycle parked in the street. Tense, silent mood.",
 10: f"Scene: {BOY} sits on a low brick wall at a corner at the top of a very steep street, carefully watching who comes up the hill; the comuna and the city spread behind him.",
 11: f"Scene: {BOY} on a street corner whistling loudly with two fingers in his mouth; far down the steep street a white and green police patrol car of the 1980s is coming up the hill.",
-12: "Scene: a humble kitchen; a mother opens an old refrigerator that is completely full of food (meat, milk, fruit, eggs) and looks sideways with a suspicious, worried expression.",
+12: "Scene: a humble kitchen; a mother (woman with black hair in a ponytail) opens an old refrigerator that is completely full of unlabeled food (meat, fruit, eggs, vegetables) and looks sideways with a suspicious, worried expression.",
 13: f"Scene: {BOY} walks confidently up a comuna street; other kids and young men greet him with respect, raising hands and nodding; a shopkeeper waves at him.",
 14: "Scene: a large colorful painted mural on a brick wall of the comuna showing the face of a man with curly black hair and a thick mustache; people stand in front of it looking up with a mix of respect and fear.",
 15: f"Scene: {PAB}, standing calm with hands in pockets in front of gigantic mountains of stacked green banknote bundles reaching the ceiling of a huge warehouse.",
@@ -30,7 +30,7 @@ S = {
 17: f"Scene: {PAB}, cutting a ribbon at the inauguration of a brand-new neighborhood football field with tall floodlights at night, happy poor kids playing football and crowds cheering on the hillside.",
 18: "Scene: a city street wall covered with many identical wanted posters showing the face of a cartoon man with curly black hair and mustache (posters with no writing at all); a police car and policemen in the street; also an old 1980s TV in a shop window showing the same face.",
 19: "Scene: an enormous tropical ranch (hacienda): a white entrance gate with a small vintage airplane mounted on top of it, green hills, a lake with hippos, giraffes and zebras grazing in the background, palm trees. Bright sunny day.",
-20: "Scene: present-day Colombia: a wide brown river in the Magdalena region with a large group of wild hippos bathing and grazing on the green riverbank, local fishermen in a small canoe watching from a distance. Lush tropical landscape.",
+20: "Scene: present-day Colombia: a wide brown river in the remote countryside of the Magdalena region, no city, no buildings, no cars with a large group of wild hippos bathing and grazing on the green riverbank, local fishermen in a small canoe watching from a distance. Lush tropical landscape.",
 21: f"Scene: {TEEN}, standing on a street corner of the comuna at dusk; a motorcycle with two men approaches him slowly. Mood of something important coming.",
 22: f"Scene: {TEEN}, receiving a set of car keys from a man's hand in front of a shiny new 1980s 4x4 pickup truck (Toyota Land Cruiser style) parked in a garage; the young man is amazed.",
 23: f"Scene: inside the cab of a 1980s 4x4 pickup at night, {TEEN} drives seriously with both hands on the wheel; in the back seat several closed, taped cardboard boxes; city lights through the windshield.",
