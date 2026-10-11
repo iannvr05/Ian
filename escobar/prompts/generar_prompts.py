@@ -40,7 +40,7 @@ S = {
 27: "Scene: a hidden jungle camp under huge tall trees: wooden huts with roofs covered by camouflage nets and palm leaves, many workers moving around carrying barrels and sacks, generators, a river nearby. No drugs visible.",
 28: "Scene: a long red-dirt landing strip cut through the middle of the dense jungle, a small white propeller plane parked at the end, wooden sheds and fuel barrels at the edge.",
 29: "Scene: tired, sweaty workers in rubber boots sitting under a palm-leaf shelter during a heavy tropical rainstorm in the jungle camp, mosquitoes, mud everywhere, gloomy mood.",
-30: "Scene: several green police helicopters of the 1980s flying low over the dense jungle canopy toward a hidden camp, dramatic sky, birds fleeing.",
+30: "Scene: several plain dark green 1980s helicopters with no lettering, no words and no markings on them, flying low over the dense jungle canopy toward a hidden camp, dramatic sky, birds fleeing.",
 31: "Scene: Colombian police officers in green uniforms walking into the abandoned jungle camp, wooden huts, smoke rising, a captured small plane on the dirt strip. No weapons pointed at anyone.",
 32: "Scene: a different jungle camp hidden in another region: on a misty mountain slope covered in jungle, new wooden huts with camouflage roofs being built, workers arriving by boat on a river.",
 33: "Scene: a large hangar at a private airfield with several small white and colorful propeller planes (Cessna style) lined up, mechanics working, tropical hills outside.",
