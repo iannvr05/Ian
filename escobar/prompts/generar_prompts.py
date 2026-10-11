@@ -2,7 +2,7 @@
 import os
 PRE = ("IMPORTANT: Do not copy ANY element or character from the reference image. Use the uploaded image ONLY as an "
        "art style reference (round white cartoon faces with simple expressive eyes, thick black outlines, flat colors). ")
-POST = (" Setting: Medellin, Colombia, in the 1980s (modern era): people wear modern clothes like t-shirts, jeans, polo shirts and sneakers. Only include cars or city elements if the scene is in the city. Nothing medieval or colonial, no donkeys, no old-fashioned costumes, no aprons or headscarves. Style: 2D cartoon like a history explainer animation, thick black outlines, "
+POST = (" Time period: the 1980s (modern era), the scene takes place exactly where described above: people wear modern clothes like t-shirts, jeans, polo shirts and sneakers. Only include cars or city elements if the scene is in the city. Nothing medieval or colonial, no donkeys, no old-fashioned costumes, no aprons or headscarves. Style: 2D cartoon like a history explainer animation, thick black outlines, "
         "flat colors with soft shading, highly detailed painted background with rich atmospheric lighting. All people have "
         "round white cartoon faces with simple eyes. No glow outline. ABSOLUTELY NO TEXT anywhere: no words, no letters, "
         "no numbers, no logos, no brand names on vehicles or products, no labels on packages, all signs, posters, magazines, maps and screens blank. No blood, no gore, "
@@ -45,11 +45,11 @@ S = {
 32: "Scene: a different jungle camp hidden in another region: on a misty mountain slope covered in jungle, new wooden huts with camouflage roofs being built, workers arriving by boat on a river.",
 33: "Scene: a large hangar at a private airfield with several small white and colorful propeller planes (Cessna style) lined up, mechanics working, tropical hills outside.",
 34: "Scene: a small propeller plane taking off at night from a hidden dirt strip in the jungle, under a huge full moon, flying very low over the treetops, a few torches marking the runway.",
-35: "Scene: a paradise Caribbean island from above: turquoise water, white sand beaches, palm trees, a small landing strip crossing the island with small planes parked, a few villas and boats.",
+35: "Scene: aerial view of a small remote paradise island in the middle of the Caribbean sea, far from any city, no cars, no streets: turquoise water, white sand beaches, palm trees, a small landing strip crossing the island with small planes parked, a few villas and boats.",
 36: "Scene: inside the cockpit of a small plane flying over the sea, a pilot with aviator sunglasses and mustache counts a thick bundle of green banknotes with a big grin; instruments without numbers.",
 37: "Scene: a small propeller plane struggling in a violent thunderstorm over a dark sea at night, lightning bolts, heavy rain, huge clouds. Dramatic.",
 38: "Scene: a busy cargo port at dusk with big cargo ships, stacks of colorful shipping containers, cranes, dock workers, a nervous traveler with a suitcase walking to a ship. Containers with no writing.",
-39: "Scene: a large glowing globe of the Earth floating in space, golden lines of light connecting Colombia to North America and Europe, and streams of green banknotes flowing back along the lines toward Colombia.",
+39: "Scene: in outer space with a black starry background (no city, no buildings, no people), a large glowing globe of the Earth, golden lines of light connecting Colombia to North America and Europe, and streams of green banknotes flowing back along the lines toward Colombia.",
 40: "Scene: a warehouse where workers place huge stacks of green banknote bundles on a gigantic industrial weighing scale like sacks of potatoes, more piles of money all around.",
 41: "Scene: a room of a house completely filled with green banknote bundles from floor to ceiling, money also stuffed inside an open wall and under lifted floor tiles; a man looks at it in amazement.",
 42: "Scene: a table with a huge mountain of colorful rubber bands next to stacks of banknote bundles each tied with rubber bands, workers sorting them, boxes full of rubber bands.",
