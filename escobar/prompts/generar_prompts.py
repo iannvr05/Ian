@@ -22,7 +22,7 @@ S = {
 9: "Scene: a poor hillside comuna of Medellin, Colombia at dusk: unplastered red-brick houses with tin roofs stacked up a steep hill, tropical plants, power lines, windows lit in warm yellow with silhouettes of people behind curtains looking out at an empty steep street, a parked motorcycle with no lettering. Quiet, discreet mood.",
 10: f"Scene: {BOY} sits on a low brick wall at a corner at the top of a very steep street, carefully watching who comes up the hill; the comuna and the city spread behind him.",
 11: f"Scene: {BOY} on a street corner whistling loudly with two fingers in his mouth; far down the steep street a white and green police patrol car of the 1980s is coming up the hill.",
-12: "Scene: a humble 1980s kitchen with an old refrigerator standing open, completely full of food: meat, fruit, eggs and vegetables, a woman seen from behind holding the door and looking at it, surprised.",
+12: "Scene: a cozy humble kitchen with a vintage refrigerator standing wide open, its shelves packed with colorful fruit, vegetables, eggs, cheese and bread, warm light coming from inside the fridge. No people.",
 13: f"Scene: {BOY} walks confidently up a comuna street; other kids and young men greet him with respect, raising hands and nodding; a shopkeeper waves at him.",
 14: "Scene: a large colorful painted mural on a brick wall of the comuna showing the face of a man with curly black hair and a thick mustache; people stand in front of it looking up with a mix of respect and fear.",
 15: f"Scene: {PAB}, standing calm with hands in pockets in front of gigantic mountains of stacked green banknote bundles reaching the ceiling of a huge warehouse.",
