@@ -54,7 +54,7 @@ S = {
 41: "Scene: a room of a house completely filled with green banknote bundles from floor to ceiling, money also stuffed inside an open wall and under lifted floor tiles; a man looks at it in amazement.",
 42: "Scene: a table with a huge mountain of colorful rubber bands next to stacks of banknote bundles each tied with rubber bands, workers sorting them, boxes full of rubber bands.",
 43: "Scene: a dark damp basement where several cartoon rats chew and nibble on piles of moldy, wet green banknotes, puddles of water, a single light bulb. Funny but gloomy.",
-44: f"Scene: {TEEN}, standing in a dark alley holding a thick bundle of banknotes, looking nervously over his shoulder; shadows of people in the street behind him, tense mood.",
+44: f"Scene: {TEEN}, standing in a dark alley with plain brick walls (no posters, no neon signs, no graffiti) holding a thick bundle of banknotes, looking nervously over his shoulder; shadows of people in the street behind him, tense mood.",
 45: "Scene: a wood-paneled judge's office at night; an older judge in a black robe sits at his desk staring at a thick closed envelope left on it; behind him on the wall a huge threatening shadow of a man with a mustache. Tense, ominous.",
 46: f"Scene: the grand chamber of the Colombian Congress with rows of seats; {PAB}, wearing a suit and tie this time, stands up while many other congressmen point at him accusingly and turn their backs.",
 47: f"Scene: {PAB}, standing in a dim room staring seriously at a large map on the wall (no text, no labels); through the window behind him a big airliner flies away into the sky.",
