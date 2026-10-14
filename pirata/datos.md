@@ -1,0 +1,14 @@
+- Edad de oro de la piratería ≈ 1650–1730; el pico, 1715–1725. La historia se sitúa en 1718.
+- Vida del marinero: galleta con gorgojos, ratas, azotes con el "gato de nueve colas". La leva (impressment) de la Royal Navy era real. Muchos marineros capturados se unían voluntariamente.
+- Jolly Roger para forzar la rendición sin combate; bandera roja = sin cuartel. Banderas falsas para acercarse: práctica documentada.
+- Capitán elegido y destituible; contramaestre elegido; reparto por partes (capitán ≈ 1,5–2). Artículos de Bartholomew Roberts: luces apagadas a las 8, sin peleas a bordo.
+- Tripulaciones diversas, con muchos africanos (a menudo esclavos huidos o liberados de barcos negreros); su estatus variaba según el barco.
+- Compensación por heridas: tarifas de los bucaneros según Exquemelin (brazo derecho 600 piezas de a ocho, izquierdo 500…). "Primera seguridad social" es una exageración humorística.
+- Bartholomew Roberts: más de 400 barcos (1719–1722); que no bebía y tomaba té lo cuenta la *General History* de Johnson.
+- Nassau, "república pirata" ≈ 1706–1718; Woodes Rogers llega en julio de 1718 con el perdón real.
+- Barbanegra: mechas bajo el sombrero según Johnson (1724), posiblemente exagerado. Queen Anne's Revenge (hasta ~40 cañones). Bloqueo de Charleston (mayo de 1718) a cambio de un cofre de medicinas. No hay pruebas de que matara a nadie antes de Ocracoke. Muere el 22/11/1718; el informe de Maynard habla de 5 disparos y unos 20 cortes.
+- Mitos: la tabla (casi inexistente), tesoro enterrado (Kidd es la excepción), parche para visión nocturna (hipótesis sin pruebas). Loros: se traían como animal exótico y se vendían. El acento "arrr" se atribuye a Robert Newton en *La isla del tesoro* (Disney, 1950).
+- Henry Every: asaltó el Ganj-i-Sawai del emperador mogol Aurangzeb (1695) y nunca fue capturado.
+- Anne Bonny y Mary Read, con Calico Jack, capturadas en 1720.
+- Execution Dock (Wapping, Londres): los cuerpos se dejaban hasta que los cubrieran tres mareas. Jaulas (gibbets) a la entrada de puertos, p. ej. el capitán Kidd en Tilbury (1701).
+- La mayoría de carreras piratas duraba uno o dos años.
