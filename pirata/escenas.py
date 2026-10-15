@@ -108,7 +108,7 @@ S = [
  f"{PIR} at the top of the mast looking through a spyglass at a distant merchant ship."),
 ("Primero, te acercas con una bandera falsa, la de un país amigo, para que no sospechen.",
  "Barco pirata con una bandera de colores amistosa, sin símbolos, acercándose a un mercante confiado.",
- "a pirate ship flying a colorful friendly flag (plain stripes, no symbols) approaches an unsuspecting merchant ship whose crew waves at it."),
+ "a pirate ship flying a simple friendly flag of only two colors, red and white horizontal stripes, no symbols, NOT a rainbow flag, approaches an unsuspecting merchant ship whose crew waves at it."),
 ("Cuando ya es tarde para huir, cambias la bandera. Y ver aparecer la calavera era suficiente para que temblaran las piernas.",
  "La bandera amistosa baja y sube la negra; la tripulación mercante, en shock.",
  "on the pirate ship a pirate quickly lowers the friendly flag and raises the black skull flag, while in the background the merchant crew panics."),
